@@ -1,0 +1,4 @@
+(
+  title: "ichin_rs",
+  dimensions: Some((500, 500)),
+)
